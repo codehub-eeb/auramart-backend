@@ -8,13 +8,13 @@ This repository contains the backend implementation of AuraMart, responsible for
 
 ## Features
 
-JWT Authentication – Secure user authentication using JSON Web Tokens.
-Protected Routes – Restrict access to authorized users.
-Token-Based Authorization – Verify user identity through JWT tokens.
-RESTful APIs – Handle frontend-backend communication.
-MongoDB Integration – Store and manage application data.
-Server-Side Logic – Handle backend operations and business logic.
-E-Commerce Functionality – Support the AuraMart shopping experience.
+-JWT Authentication – Secure user authentication using JSON Web Tokens.
+-Protected Routes – Restrict access to authorized users.
+-Token-Based Authorization – Verify user identity through JWT tokens.
+-RESTful APIs – Handle frontend-backend communication.
+-MongoDB Integration – Store and manage application data.
+-Server-Side Logic – Handle backend operations and business logic.
+-E-Commerce Functionality – Support the AuraMart shopping experience.
 
 ## Tech Stack
 
